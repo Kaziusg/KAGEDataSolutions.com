@@ -1,3 +1,3 @@
 # KAGEDataSolutions.com
 
-[https://example.com](Excel AI Loader)
+<a href="https://kagedatasolutions.com/">Excel AI Loader</a>
